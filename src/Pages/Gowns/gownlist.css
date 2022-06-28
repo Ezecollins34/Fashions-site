@@ -1,0 +1,34 @@
+.listdisp img {
+  width: 100%;
+}
+.listdisp {
+  margin: 2%;
+  border: 1px solid #d19e4f;
+  border-radius: 10px;
+  width: 25%;
+  padding: 2%;
+}
+.listdisp:hover {
+  cursor: pointer;
+}
+.display-img {
+  border-radius: 15px;
+  height: 250px;
+}
+.display-name {
+  width: 100%;
+  /* height: 28px; */
+  text-align: left;
+  padding: 2%;
+  /* background-color: #d19e4f; */
+  /* border-radius: 10px; */
+  /* color: black; */
+}
+.display-price {
+  text-align: left;
+  width: 100%;
+  padding: 2%;
+  background-color: #d19e4f;
+  color: black;
+  border-radius: 10px;
+}
